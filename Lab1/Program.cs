@@ -10,7 +10,7 @@ namespace Lab1
       c.ToString());
             return c;
         }
-        // hello boys
+        // hello boys sddssgd
         static void Main(string[] args)
         {
             Console.WriteLine("Введiть перше число");
